@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Carrier
+list.txt
+journal_entry/
+dw-config.txt
+test.py
